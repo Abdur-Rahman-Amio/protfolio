@@ -1,0 +1,63 @@
+body{
+    margin: 0;
+    padding: 0;
+}
+h1,h2,h3,h4,h5,h6,a,p,ul,li,img{
+    margin: 0;
+    padding: 0;
+}
+.area-project-2{
+    margin-top: 250px;
+    position: relative;
+    left: 100px;
+}
+.area-project{
+    float: left;
+    width: 50%;
+}
+.area-project h1{
+    font-size: 45px;
+}
+.area-project p{
+    color: rgb(37, 94, 145);
+    margin: 24px;
+    text-transform: capitalize;
+    font-family: sans-serif;
+}
+.button{
+      text-decoration: none;
+      background-image: linear-gradient(45deg, lightSalmon, tomato);
+      color:white;
+      border-radius:5px;
+      padding: 10px 20px;
+      font-weight: 700;
+      margin: 12px;
+}
+.area-project img{
+    width: 70%;
+}
+.area-project-3{
+    margin-left: 660px;
+}
+.area-project-3 h1{
+    color: aqua;
+}
+.experience{
+    position: absolute;
+    top: 870px;
+    left: 70px;
+    font-size: 40px;
+    font-family:inherit;
+}
+.area-project-4{
+    width: 42%;
+    float: left;
+    position:relative;
+    top: 100px;
+    left: 70px;
+    box-shadow: 10px 10px 40px rgb(172, 43, 43);
+    border-radius:20px;
+    background-color: white;
+    margin: 10px;
+    border: 5px solid;
+}
